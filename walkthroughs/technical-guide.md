@@ -52,6 +52,7 @@ Feel free to reference the dawgs repository's gallery page as well.
 And that's a wrap! Congrats on completing your mentorship family's webapp :)
 
 If you have some time left over or want to explore more, feel free to add some of the below options:
+* Deploy your webapp on Heroku
 * Embed Spotify iframe
 * Various cool bootstrap components
 * Polls (e.g. https://www.w3schools.com/php/php_ajax_poll.asp)

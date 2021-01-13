@@ -1,20 +1,4 @@
-.profile{
-    border-radius: 40px;
-    border: 10px solid #85b6b2;
-    background-color:#bccfdf;
-    padding: 25px 50px 25px 50px;
-    margin: 15px;
-    margin-left: 30px;
-    margin-right: 30px;
-    transition: transform .2s;
-    text-align: center;
-}
-
-.profile:hover {
-    transform: scale(1.02);
-}
-
-.logo-padding 
+#starter-code
 {
-    margin: auto;
+    color: blue;
 }

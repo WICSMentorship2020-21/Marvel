@@ -22,6 +22,16 @@ If you run into an error, be sure you are in the correct folder (should be your 
 
 Once you do this, run `npm start` and visit localhost:8000 in your browser. 
 
+## VSCode and Live Share Extension
+
+We recommend you use VSCode as your IDE because it has a super handy extension called Live Share! This lets a group of people all edit code at the same time like a Google Doc, even allowing participants to type in the host's terminal and view shared servers (like localhost:8000!). 
+
+Download VSCode from https://code.visualstudio.com/download
+
+Live Share Extension Details: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+- You can install the extension from VSCode directly by clicking on the Extensions icon on the left menu. If you search "Live Share" it should be the first   thing that pops up. You will need to restart VSCode after installation.
+- Let us know if you need any help! Otherwise all the information you need should be found in the two links above. 
+
 ## Color Palette
 
 Now it's time to choose a color palette for your website! 

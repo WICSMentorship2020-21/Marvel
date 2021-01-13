@@ -1,5 +1,5 @@
 /* 
-  Visit localhost:8000 to see the home page of your webapp
+  Visit localhost:3000 to see the home page of your webapp
   Add /gallery or /about-us to see those respective pages 
   You may need to restart your app after certain changes you make
   Use npm start to run your code 
