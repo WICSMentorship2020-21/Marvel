@@ -64,6 +64,8 @@ Since your entire family will be working on this repository, you will need to in
 In your GitHub repo, click on `Settings` -> `Manage Access` -> `Invite a Collaborator`.
 Here, invite your family members via the email they used to register their GitHub account.
 
+NOTE: You only need to do this if someone in your family is NOT in the GitHub organization.
+
 ## Testing Time!
 
 Now, let's test it out to make sure everything works. First, modify your README file on your local computer to say something like 
